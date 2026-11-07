@@ -21,7 +21,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 20px 8%;
-    background: rgba(18, 18, 18, 0.95);
+    background: rgba(58, 54, 54, 0.95);
     backdrop-filter: blur(10px);
     z-index: 1000;
     border-bottom: 1px solid #2a2a2a;
